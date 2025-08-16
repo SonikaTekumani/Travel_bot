@@ -1,5 +1,2 @@
-fastapi
-uvicorn[standard]
-pandas
-pydantic
+flask 
 gunicorn
